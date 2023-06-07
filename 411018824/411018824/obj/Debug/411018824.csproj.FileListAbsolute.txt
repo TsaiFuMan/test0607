@@ -84,3 +84,8 @@ D:\411018824\411018824\obj\Debug\411018824.csproj.CoreCompileInputs.cache
 D:\411018824\411018824\obj\Debug\411018824.csproj.CopyComplete
 D:\411018824\411018824\obj\Debug\411018824.dll
 D:\411018824\411018824\obj\Debug\411018824.pdb
+D:\411018824\411018824\bin\EntityFramework.dll
+D:\411018824\411018824\bin\EntityFramework.SqlServer.dll
+D:\411018824\411018824\bin\EntityFramework.xml
+D:\411018824\411018824\bin\EntityFramework.SqlServer.xml
+D:\411018824\411018824\bin\zh-Hant\EntityFramework.resources.dll
